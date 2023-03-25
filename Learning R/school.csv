@@ -1,0 +1,6 @@
+school_id,school_name,country,student,top10
+1,University of London,UK,50000,FALSE
+2,Cambridge,UK,65000,TRUE
+3,Oxford,UK,32000,TRUE
+4,Harvard,USA,48000,TRUE
+5,MIT,USA,62000,TRUE

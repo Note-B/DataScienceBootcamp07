@@ -1,0 +1,5 @@
+{
+  "id": [1,2,3,4,5],
+  "name": ["toy","john","marry","lisa","jisoo"],
+  "love_singing": [true, false, false, true, true]
+}
